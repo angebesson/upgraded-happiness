@@ -1,0 +1,13 @@
+.boton2{
+    color: rgb(230, 221, 221);
+    border-radius: 50%;
+    background: var(--gradient-2, linear-gradient(90deg, #FC466B 0%, #3F5EFB  100%));
+    
+}
+
+.boton3{
+    color: #fff;
+    background-color: #1A1A1A;
+    box-shadow: rgba(0, 0, 0, 0.5) 0 10px 20px;
+    transform: translateY(-3px);
+}
